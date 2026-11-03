@@ -1,0 +1,4 @@
+interface:
+  display_name: "旅行照片风格化"
+  short_description: "上传一张旅行照片，获得个性化风格推荐，选定之后直接制作成片"
+  default_prompt: "用 $travel-photo-styles 看看这张照片适合做成什么风格。"
